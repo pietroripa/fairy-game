@@ -10,5 +10,5 @@ A fairy roam around a map collecting stars.
 - JavaScript
 
 # How to play
-1. Clone the repository: git clone 
+1. Clone the repository: git clone https://github.com/pietroripa/fairy-game/tree/master
 2. Open `index.html` in your browser
